@@ -1,38 +1,38 @@
 [
     {
       "id": 1,
-      "name": "Product 1",
-      "price": "$19.99",
+      "name": "Adidas",
+      "price": "₹1,564",
       "image": "product1.jpg",
-      "description": "Description of Product 1"
+      "description": "Mens Ultimate Ease Walking Shoe"
     },
     {
       "id": 2,
-      "name": "Product 2",
-      "price": "$29.99",
+      "name": "Campus",
+      "price": "₹539",
       "image": "product2.jpg",
-      "description": "Description of Product 2"
+      "description": "mens Oxyfit (N) Walking Shoe"
     },
     {
       "id": 3,
-      "name": "Product 3",
-      "price": "$39.99",
+      "name": "ASIAN",
+      "price": "₹749",
       "image": "product3.jpeg",
-      "description": "Description of Product 3"
+      "description": "Mens Atlantis Running"
     },
     {
       "id": 4,
-      "name": "Product 4",
-      "price": "$49.99",
+      "name": "Red Tape",
+      "price": "₹549",
       "image": "product4.jpg",
-      "description": "Description of Product 4"
+      "description": "Mens Courun Avant M Running Shoe"
     },
     {
       "id": 5,
-      "name": "Product 5",
-      "price": "$59.99",
+      "name": "Sparx",
+      "price": "₹749",
       "image": "product5.jpeg",
-      "description": "Description of Product 5"
+      "description": "Sneaker Casual Shoes for Men | Soft Cushioned Insole"
     }
   ]
   

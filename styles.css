@@ -1,5 +1,5 @@
 .product-card {
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
     padding: 10px;
     margin: 10px;
     width: 300px;
@@ -16,10 +16,11 @@
   }
   
   .product-price {
-    color: #e44d26;
+    color: #000000;
+    margin-left: 5px;
   }
   
   .product-description {
-    margin-top: 10px;
+    margin-top: 2px;
   }
   
